@@ -1,2 +1,2 @@
-Index place holder
-# Coming Soon
+i# فهرست مطالب
+[راهنمای ویرایش / افزودن مطالب به ویکی](contribute.md)
