@@ -1,2 +1,0 @@
-# wiki
-Puzlime's wiki
