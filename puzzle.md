@@ -7,9 +7,9 @@
 * [متن](text.md)
 * [لیست](list.md)
 * [آبجکت](objects.md) ها
-*‌ [اتفاق](events.md) ها
-*‌ [پیام](messages.md) ها
-*‌ [مدیریت چت](chat_management.md)
+* [اتفاق](events.md) ها
+* [پیام](messages.md) ها
+* [مدیریت چت](chat_management.md)
 * [دریافت](get.md)
 * [کیبورد](keyboard.md)
 * [دیتابیس](database.md)
