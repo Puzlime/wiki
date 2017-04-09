@@ -54,6 +54,6 @@
 
 این پازل باعث می شود که اجرای حلقه متوقف شود.
 
-![control-for-each-break](img/control-for-each-break)
+![control-for-each-break](img/control-for-each-break.png)
 
 در مثال فوق ابتدا alpha چاپ می شود اما پس از رسیدن به بتا حلقه break می شود. توجه کنید که هیچ گاه حلقه برای gamma اجرا نخواهد شد.
