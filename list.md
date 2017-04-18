@@ -127,6 +127,43 @@ Selecting "remove" on the dropdown causes the plug on the left of the block to d
 مقدار جدید لیست کلمات برابر است با ["very", "very", "good"].
 //TODO
 
+# in list ... insert at
+ پازل **in list ... insert at** را با استفاده از دراپ دان منوی پازل **in list ... set** میتوانید بیاورید.
+ این پازل ایتم جدیدی را در جای مشخصی قبل از ایتمی که هست میگذارد.
+ در مثال زیر داریم :
+ 1- لیست کلمات با سه ایتم ["very", "very", "very"] ساخته می شود.
+ 2- سومین ایتم ان با "good" عوض می شود.مقدار جدید لیست برابر است با "very", "very", "good"].
+ 3- کلمه ی "you're"در شروع لیست قرار میدهیم. مقدار نهایی لیست برابر است با : ["You're", "very", "very", "good"].
+ //TODO
+ 
+# شکاندن رشته ها و چسباندن لیست ها
+
+## ساختن لیست از متن
+پازل **make list from text** متن داده شده را به تکه هایی میشکاند با استفاده از جدا کننده
+//TODO
+در مثال بالا لیست شامل سه قسمت از متن می باشد."311", "555", and "2368".
+
+## ساختن متن از روی لیست
+ پازل **make text from list** با استفاده از جدا کننده یک متن میسازد.
+ //TODO
+ 
+ در مثال بالا متن جدید را با مقدار "311-555-2368" برمیگرداند.
+ 
+# پازل های مرتبط
+## چاپ کردن لیست
+پازلprint در بخش متن می تواندلیست را چپ کند.نتیجه برنامه زیر در پنجره هشدار نمایش داده شده است
+//TODO
+
+## انجام دادن هرکاری برای هر ایتم در لیست
+The for-each block in the Control category performs an operation on every item in a list. For example, these blocks individually print each item in the list:
+//TODO
+این کار ایتم هارا از لیست اصلی حذف نمیکند.
+همچنین مثال ها را در  loop termination blocks ببینید.
+//TODO
+
+
+ 
+
 
  
  
