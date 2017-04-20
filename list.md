@@ -14,7 +14,7 @@
 پازل **create list with** به کاربر اجازه میدهد که در یک لیست جدید مقدار ابتدایی بدهد.
 در این مثال لیستی از کلمات ساخته شده و در متغیری به نام letters ریخته شده است:
 
-![list-create-list-with-text](img/list-create-list-with-text)
+![list-create-list-with-text](img/list-create-list-with-text.png)
 
 اینجا لیست "letters" را اینگونه تعریف می کنیم ["alpha", "beta", "gamma"] پایین به متغیر های که در این بخش تعریف شده اند اشاره می کنیم.
 
