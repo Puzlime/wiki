@@ -58,7 +58,7 @@
 
 این پازل ها  موقعیت یک ایتم در لیست را پیدا میکنند.در مثال زیر اولین  "very"  در خانه ی اول قرار دارد چون ابتدای لیست با "very"  شروع شده است.
 
-![list-find-last1](img/list-find-last1.png)
+![list-find-first1](img/list-find-first1.png)
 
  در مثال دیگر مقدار اخرین "very" در خانه ی سوم قرار دارد
 
@@ -66,7 +66,7 @@
 
  اگر ایتم در لیست وجود نداشته باشد نتیجه صفر می شود مانند مثال زیر
 
-![list-find-last2](img/list-find-last2.png)
+![list-find-first2](img/list-find-first2.png)
 
  این پازل ها شبیه پازل های the ones for finding letters در متن می باشد.
  
