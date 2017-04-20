@@ -44,9 +44,10 @@
 ## خالی
 مقدار پازل **is empty** درست است اگر ورودی آن لیست خالی باشد در غیر این صورت غلط است.
 مقدار پازل زیر برابر غلط است چون متغیر colours خالی نیست و سه عضو دارد.
-توجه کنید به شباهتش به پازل "is empty" برای قسمت متن
 
 ![list-create-list-with-item](img/list-create-list-with-item.png)
+
+توجه کنید به شباهتش به پازل[ "is empty" ](http://puzlime.com/wiki/text.md)برای قسمت متن
 
 ## طول
 پازل **length of** تعداد آیتم های داخل لیست که به صورت ورودی استفاده میشوند را میدهد.
@@ -59,7 +60,7 @@
 
 ![list-length](img/list-length.png)
 
-توجه کنید که شبیه پازل  "length of" برای متن میباشد.
+توجه کنید که شبیه پازل  ["length of"](http://puzlime.com/wiki/text.md) برای متن میباشد.
 
 ![list-length2](img/list-length2.png)
 
@@ -77,7 +78,7 @@
 
 ![list-find-first2](img/list-find-first2.png)
 
- این پازل ها شبیه پازل های the ones for finding letters در متن می باشد.
+ این پازل ها شبیه پازل های [the ones for finding letters](http://puzlime.com/wiki/text.md) در متن می باشد.
  
 # گرفتن ایتم ها از لیست 
  
