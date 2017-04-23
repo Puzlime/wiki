@@ -15,4 +15,5 @@
 * [دیتابیس](database.md)
 * [پرداخت](purchase.md)
 * [متغییر](variables.md) ها
+* [زمان](time.md)
 * [توابع](function.md)
