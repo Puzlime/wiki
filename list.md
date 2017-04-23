@@ -183,4 +183,15 @@ Selecting "remove" on the dropdown causes the plug on the left of the block to d
 ![list-join](img/list-join.png)
  
  در مثال بالا متن جدید را با مقدار "311-555-2368" برمیگرداند.
- 
+
+# پازل های مرتبط
+## چاپ کردن لیست
+پازلprint در بخش متن می تواندلیست را چپ کند.نتیجه برنامه زیر در پنجره هشدار نمایش داده شده است
+//TODO
+
+## انجام دادن هرکاری برای هر ایتم در لیست
+The for-each block in the Control category performs an operation on every item in a list. For example, these blocks individually print each item in the list:
+//TODO
+این کار ایتم هارا از لیست اصلی حذف نمیکند.
+همچنین مثال ها را در  loop termination blocks ببینید.
+//TODO
