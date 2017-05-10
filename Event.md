@@ -14,20 +14,19 @@
 
 در مثال بالا با ارسال دستور /start پازل هایی که دراین پازل Event قرار داده ایم اجرا می شوند.
 
-## پازل text handler
-
-
-
-![event-text](img/event-text.png)
-
 ## پازل Default Message handler
 
-برای استفاده از این پازل فقط نیاز به مشخص کردن متغیری که در آن پیام ارسال شده ذخیره شده است، داریم.
+برای استفاده از این پازل فقط به مشخص کردن متغیری که در آن پیام ارسال شده ذخیره شده است، نیاز داریم.
 
 برای استفاده از هر بخش پیام می بایست از پازل [ابجکت](http://puzlime.com/wiki/objects.md) استفاده کرد. ([ابجکت های تعریف شده برای هر پیام در تلگرام](https://core.telegram.org/bots/api#message))
 
 ![event-default](img/event-default.png)
 
+## پازل text handler
+
+در این پازل علاوه بر مشخص کردن متغیر پیام ارسال شده مقابل Message ، می بایست متغیری که در آن متن پیام ذخیره شده است را مقابل Query قرار داد.
+
+![event-text](img/event-text.png)
 ## پازل photo listener
 
 اگر بخواهیم بات ما در مقابل عکسی که از کاربر دریافت عملی انجام دهد، می بایست از این پازل استفاده کنیم.
@@ -44,7 +43,7 @@
 
 ![event-video](img/event-video.png)
 
-پازل های **voice listener, document listener, audio listener, sticker listener, location listener** نیز همانند پازل video listener عمل می کنند.
+پازل های **voice listener, document listener, audio listener, sticker listener, location listener, venue listener, contact listener** نیز همانند پازل video listener عمل می کنند.
 
 ### پازل inline handler و callback handler
 
