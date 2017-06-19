@@ -1,6 +1,6 @@
 # ساخت یک بات
 ## دریافت توکن و افزودن به پازلایم
-برای ساخت یک بات ابتدا به [@botfather](http://telegram.me/botfather){:target="_blank"} پیام دهید و با دستور `/newbot` یک بات بسازید.
+برای ساخت یک بات ابتدا به [@botfather](http://telegram.me/botfather) پیام دهید و با دستور `/newbot` یک بات بسازید.
 
 سپس به صفحه [profile](http://puzlime.com/profile) رفته و token دریافتی خود را در انتهای صفحه وارد کنید.
 
