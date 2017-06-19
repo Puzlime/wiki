@@ -13,7 +13,7 @@
 
 ![create_a_bot_1.png](img/create_a_bot_1.png)
 
-سپس در درون آن پازل، پازل forward را از منوی Message -> Send انتخاب نمایید.
+سپس در درون آن پازل، پازل forward را از منوی Message -> Send  و در آن قرار دهید. انتخاب نمایید
 
 ![create_a_bot_1.png](img/create_a_bot_2.png)
 
