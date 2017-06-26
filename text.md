@@ -141,3 +141,39 @@
 (فضای خالی متن تاثیر ندارد.)
 
 ![text-trim-spaces](img/text-trim-spaces.png)
+
+# دیگر پازل های متن
+
+### new line
+
+پازل new line ادامه متن یا رشته را در خط جدیدی ذخیره می کند.
+
+![text-newline](img/text-newline.png)
+
+در حالت سمت چپ متن خروجی "Hello 2016Hello 2017" است ولی در حالت سمت راست عبارت "Hello 2017" یک خط پایین تر از عبارت "Hello 2016" قرار می گیرد.
+
+### replace
+
+پازل زیر برای جایگزین کردن یک عبارت خاص در یک رشته با یک عبارت دیگر استفاده می شود.
+
+![text-string-replace](img/text-string-replace.png)
+
+به عنوان مثال خروجی پازل بالا "these 4 men have 4 hats!" است.
+
+### text start
+
+با این پازل می توان بررسی کرد که متن خاصی با عبارت یا حرف خاصی شروع شده است یا  خیر.
+
+![text-start](img/text-start.png)
+
+به عنوان مثال در تصویر بالا اگر متنی که در var1 ذخیره شده است، با عبارتی که در var2 ذخیره شده است، شروع شود خروجی این پازل صحیح(true) است در غیر اینصورت غلط(false) است.
+
+### escape string
+
+این پازل کاراکتر های [UTF-8](https://en.wikipedia.org/wiki/UTF-8) را به کاراکتر های [ASCII](https://en.wikipedia.org/wiki/ASCII) تبدیل می کند.
+
+![text-escape](img/text-escape.png)
+
+پازل Unescape string دقیقا عکس فرایند بالا را انجام می دهد.
+
+![text-unescape](img/text-unescape.png)
