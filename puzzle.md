@@ -5,6 +5,7 @@
 * [حلقه](loops.md) ها
 * ریاضی
 * [متن](text.md)
+* [پازل های چند زبانگی](multilingual.md)
 * [لیست](list.md)
 * [آبجکت](objects.md) ها
 * [اتفاق](events.md) ها
