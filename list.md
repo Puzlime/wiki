@@ -175,7 +175,7 @@ Selecting "remove" on the dropdown causes the plug on the left of the block to d
 
 ![list-split](img/list-split.png)
 
-در مثال بالا لیست شامل سه قسمت از متن می باشد."311", "555", and "2368".
+در مثال بالا لیست شامل سه قسمت از متن می باشد."311", "555" و "2368".
 
 ## ساختن متن از روی لیست
  پازل **make text from list** با استفاده از جدا کننده یک متن میسازد.
