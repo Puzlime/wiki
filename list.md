@@ -110,16 +110,17 @@
  
 ## گرفتن و حذف کردن ایتم
 
-A dropdown menu on the in list ... get block changes it to in list ... get and remove, which provides the same otuput but also modifies the original list:
+یک منوی بازشونده در اینجا وجود دارد که "get" و "get and remove" خروجی یکسان دارند ولی در دومی لیست اصلی تغییر پیدا می کند:
 
 ![list-in-list-get-options](img/list-in-list-get-options.png)
 
-This example sets the variable first letter to "alpha" and leaves letters as: ["beta", "gamma"].
+این مثال "alpha" را در متغیر "first letter" قرار می دهد.
 
 ![list-in-list-get-and-remove](img/list-in-list-get-and-remove.png)
 
 ## حذف ایتم
-Selecting "remove" on the dropdown causes the plug on the left of the block to disappear:
+
+انتخاب "remove" در منوی بازشونده باعث می شود اتصال از چپ حذف شود و اتصال از پایین و بالا شود:
 
 ![list-in-list-remove](img/list-in-list-remove.png)
 
@@ -175,7 +176,7 @@ Selecting "remove" on the dropdown causes the plug on the left of the block to d
 
 ![list-split](img/list-split.png)
 
-در مثال بالا لیست شامل سه قسمت از متن می باشد."311", "555", and "2368".
+در مثال بالا لیست شامل سه قسمت از متن می باشد."311", "555" و "2368".
 
 ## ساختن متن از روی لیست
  پازل **make text from list** با استفاده از جدا کننده یک متن میسازد.
@@ -183,15 +184,4 @@ Selecting "remove" on the dropdown causes the plug on the left of the block to d
 ![list-join](img/list-join.png)
  
  در مثال بالا متن جدید را با مقدار "311-555-2368" برمیگرداند.
-
-# پازل های مرتبط
-## چاپ کردن لیست
-پازلprint در بخش متن می تواندلیست را چپ کند.نتیجه برنامه زیر در پنجره هشدار نمایش داده شده است
-//TODO
-
-## انجام دادن هرکاری برای هر ایتم در لیست
-The for-each block in the Control category performs an operation on every item in a list. For example, these blocks individually print each item in the list:
-//TODO
-این کار ایتم هارا از لیست اصلی حذف نمیکند.
-همچنین مثال ها را در  loop termination blocks ببینید.
-//TODO
+ 
