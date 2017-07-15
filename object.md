@@ -17,7 +17,7 @@
 
 ![object-get-](img/object-get-example.png)
 
-در این مثال با استفاده از اطلاعاتی که در https://core.telegram.org/bots/api#message قرار دارد، در شئ message خصوصیت های from را میگیریم که به ما شئ user را می دهد سپس با استفاده از اطلاعات صفحه https://core.telegram.org/bots/api#user در شئ user خصوصیت username را به ما می دهد. username رشته است که تلگرام در آن نام کاربری شما را ذخیره می کند. یه عنوان مثال @BotFather
+در این مثال با استفاده از خصوصیت هایی که برای [شئ message](https://core.telegram.org/bots/api#message) در تلگرام تعریف شده است،  خصوصیت from را دریافت می کنیم که به ما [شئ user](https://core.telegram.org/bots/api#user) را می دهد. username رشته است که تلگرام در آن نام کاربری شما را ذخیره می کند. یه عنوان مثال @BotFather
 
 ## پازل حذف object
 
