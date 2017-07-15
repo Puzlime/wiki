@@ -110,16 +110,17 @@
  
 ## گرفتن و حذف کردن ایتم
 
-A dropdown menu on the in list ... get block changes it to in list ... get and remove, which provides the same otuput but also modifies the original list:
+یک منوی بازشونده در اینجا وجود دارد که "get" و "get and remove" خروجی یکسان دارند ولی در دومی لیست اصلی تغییر پیدا می کند:
 
 ![list-in-list-get-options](img/list-in-list-get-options.png)
 
-This example sets the variable first letter to "alpha" and leaves letters as: ["beta", "gamma"].
+این مثال "alpha" را در متغیر "first letter" قرار می دهد.
 
 ![list-in-list-get-and-remove](img/list-in-list-get-and-remove.png)
 
 ## حذف ایتم
-Selecting "remove" on the dropdown causes the plug on the left of the block to disappear:
+
+انتخاب "remove" در منوی بازشونده باعث می شود اتصال از چپ حذف شود و اتصال از پایین و بالا شود:
 
 ![list-in-list-remove](img/list-in-list-remove.png)
 
@@ -175,7 +176,7 @@ Selecting "remove" on the dropdown causes the plug on the left of the block to d
 
 ![list-split](img/list-split.png)
 
-در مثال بالا لیست شامل سه قسمت از متن می باشد."311", "555", and "2368".
+در مثال بالا لیست شامل سه قسمت از متن می باشد."311", "555" و "2368".
 
 ## ساختن متن از روی لیست
  پازل **make text from list** با استفاده از جدا کننده یک متن میسازد.
