@@ -1,9 +1,9 @@
-# پازل های Messages
+## پازل های Messages
 
 برای ارسال هرگونه پیامی از طرف بات از این پازل ها استفاده می کنیم.
 
 
-## Forward message
+### Forward message
 
 این پازل برای forward پیام ها استفاده می شود.
 در قسمت اول(مقابل message) این پازل شئ (object) مربوط به پیام را قرار می دهیم.
@@ -11,7 +11,7 @@
 
 ![messages-forward](img/messages-forward.png)
 
-## Send message
+### Send message
 
 برای ارسال پیام به صورت متن(text) از این پازل استفاده می کنیم.
 در قسمت اول این پازل id چت مورد نظر را قرار می دهیم.
@@ -37,7 +37,7 @@
 
 ![messages-send-reply3](img/messages-send-reply3.png)
 
-## Reply message
+### Reply message
 
 این پازل همانند پازل Send message است،
 تفاوت این دو پازل در قسمت in reply to message است
@@ -45,16 +45,16 @@
 
 ![messages-reply](img/messages-reply.png)
 
-## Answer callback query
+### Answer callback query
 
 
 
-## Answer inline
+### Answer inline
 
 
-# پازل های غیر متعارف
+## پازل های غیر متعارف
 
-## ChatAction
+### ChatAction
 
 اگر بات شما برای انجام فعالیتی زمان قابل ملاحظه ای را در بر می گیرد می توانید از این پازل استفاده کنید تا به کاربر اطلاع دهید که بات در حال فعالیت است و متوقف نشده است(به جای اینکه پیام بدهید مثلا "در حال پردازش اطلاعات")
 برای نمونه می توانید بات [ImageBot](https://t.me/imagebot) را امتحان کنید.
@@ -78,18 +78,18 @@
 
 7. upload_video_note, record_video_note
 
-## Send Location
+### Send Location
 
 
 
-## Send Venue
+### Send Venue
 
 
 
-## Send Video Note
+### Send Video Note
 
 
 
-## Send Contact
+### Send Contact
 
 
