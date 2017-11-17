@@ -45,3 +45,51 @@
 
 ![messages-reply](img/messages-reply.png)
 
+## Answer callback query
+
+
+
+## Answer inline
+
+
+# پازل های غیر متعارف
+
+## ChatAction
+
+اگر بات شما برای انجام فعالیتی زمان قابل ملاحظه ای را در بر می گیرد می توانید از این پازل استفاده کنید تا به کاربر اطلاع دهید که بات در حال فعالیت است و متوقف نشده است(به جای اینکه پیام بدهید مثلا "در حال پردازش اطلاعات")
+برای نمونه می توانید بات [ImageBot](https://t.me/imagebot) را امتحان کنید.
+
+![messages-send-chatAction](img/messages-send-chatAction.png)
+
+زمانی که بات پردازش خود را انجام می دهد، زیر اسم بات متن sending photo... دیده می شود.
+برای اینکار شما کافی است که یکی از متن های زیر را مقابل chatAction قرار دهید: 
+
+1. typing 
+
+2. upload_photo
+
+3. upload_video, record_video
+
+4. upload_audio, record_audio
+
+5. upload_document
+
+6. find_location
+
+7. upload_video_note, record_video_note
+
+## Send Location
+
+
+
+## Send Venue
+
+
+
+## Send Video Note
+
+
+
+## Send Contact
+
+
