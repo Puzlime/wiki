@@ -60,9 +60,9 @@
 
 ### Answer inline
 
-با استفاده از این پازل می توانید بات هایی مانند (@gif)[https://telegram.me/gif] ساخت
+با استفاده از این پازل می توانید بات هایی مانند [https://telegram.me/gif](@gif) ساخت
 
-برای نحوه استفاده به صفحه مربوط به (کیبورد)[https://puzlime.com/wiki/keyboard.md] مراجع کنید
+برای نحوه استفاده به صفحه مربوط به [https://puzlime.com/wiki/keyboard.md])کیبورد) مراجع کنید
 
 ## پازل های غیر متعارف
 
